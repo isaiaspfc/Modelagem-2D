@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Olha se você não me ama então não me ligue (MANOEL GOMES) (320 kbps).mp3-e286fdf085b5e9ecf9033499ed1d8b4b.mp3str"
+
+[deps]
+
+source_file="res://Olha se você não me ama então não me ligue (MANOEL GOMES) (320 kbps).mp3"
+dest_files=[ "res://.import/Olha se você não me ama então não me ligue (MANOEL GOMES) (320 kbps).mp3-e286fdf085b5e9ecf9033499ed1d8b4b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
